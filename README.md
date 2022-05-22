@@ -2,17 +2,17 @@
 Aplicatia ofera informatii despre cluburile sportive, antrenorii si rezultatele sportivilor lor.
 
 ## Clase
-  Club
-  Administrator
-  Antrenor
+  - Club
+  - Administrator
+  - Antrenor
     Antrenor Simplu
     Antrenor Olimpic
-  Sportiv
-    Sportiv Simplu
-    Sportiv Lot
-   Rezultat
-   TipSport
-   Sala
+  - Sportiv
+    - Sportiv Simplu
+    - Sportiv Lot
+  - Rezultat
+  - TipSport
+  - Sala
 
 Dintre actiunile care pot fi facute in aceasta aplicatie se pot enumera:
 - crearea/editarea/afisarea/stergerea unui club/administrator/antrenor/sportiv/rezultat/tipSport/sala
