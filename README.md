@@ -5,8 +5,8 @@ Aplicatia ofera informatii despre cluburile sportive, antrenorii si rezultatele 
   - Club
   - Administrator
   - Antrenor
-    Antrenor Simplu
-    Antrenor Olimpic
+    - Antrenor Simplu
+    - Antrenor Olimpic
   - Sportiv
     - Sportiv Simplu
     - Sportiv Lot
