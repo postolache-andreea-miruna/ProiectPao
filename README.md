@@ -23,4 +23,4 @@ Dintre actiunile care pot fi facute in aceasta aplicatie se pot enumera:
 - se afiseaza toate rezultatele obtinute de un sportiv dat
 - se afiseaza toti sportivii cu rezultatele aferenta
 - se afiseaza toate tipurile de sport si salile aferente
-- se afiseaza toate tipurile de sport si antrenorii care antreneeaza acolo
+- se afiseaza toate tipurile de sport si antrenorii care antreneaza acolo
