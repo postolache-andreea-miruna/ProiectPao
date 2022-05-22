@@ -14,6 +14,7 @@ Aplicatia ofera informatii despre cluburile sportive, antrenorii si rezultatele 
   - TipSport
   - Sala
 
+## Actiuni
 Dintre actiunile care pot fi facute in aceasta aplicatie se pot enumera:
 - crearea/editarea/afisarea/stergerea unui club/administrator/antrenor/sportiv/rezultat/tipSport/sala
 - se afiseaza numele cluburilor cu toti antrenorii aferenti (ordonati dupa anii de experianta)
