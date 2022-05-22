@@ -17,6 +17,7 @@ Aplicatia ofera informatii despre cluburile sportive, antrenorii si rezultatele 
 Dintre actiunile care pot fi facute in aceasta aplicatie se pot enumera:
 - crearea/editarea/afisarea/stergerea unui club/administrator/antrenor/sportiv/rezultat/tipSport/sala
 - se afiseaza numele cluburilor cu toti antrenorii aferenti (ordonati dupa anii de experianta)
+- pentru un club se afiseaza numarul de antrenori
 - se afiseaza pentru un antrenor dat toti sportivii sai
 - se afiseaza toti antrenorii cu sportivii aferenti
 - se afiseaza toate rezultatele obtinute de un sportiv dat
